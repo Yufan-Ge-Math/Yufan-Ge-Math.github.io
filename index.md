@@ -3,6 +3,9 @@ I'm a [Ph.D. candidate](https://www.universiteitleiden.nl/en/staffmembers/yufan-
 
 My research interests are mainly about the operator algebras and related topics. Currently, I'm focusing on the C*-algebras from subproduct systems and their K-theory. Recently, I have a keen interest in function theory related to the Arveson–Douglas conjecture.
 
+## Papers/Preprints
+- [Quadratic subproduct systems, free products, and their C*-algebras](https://arxiv.org/abs/2504.12843), submitted.
+
 ## Talks
 - [SU(2)-symmetries of C*-algebras: from bricks to buildings](https://blogs.kent.ac.uk/iwota2024/files/2024/08/S9-1.pdf), [IWOTA 2024](https://blogs.kent.ac.uk/iwota2024/), 12-16 August, Kent University, UK.
 - [Subproduct systems from SU(2)-representations](https://drive.google.com/file/d/1hja43c9swg4df743SBEA_SFEcHBTG1S2/view), [5th Conference of Settat on "Operator Algebras and Applications"](https://sites.google.com/view/icsoaa-2023/home?authuser=0), 9-13 January 2023, Marrakech, Morocco.
