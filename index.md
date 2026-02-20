@@ -1,10 +1,12 @@
 # Welcome to my homepage!
-I'm a [Ph.D. candidate](https://www.universiteitleiden.nl/en/staffmembers/yufan-ge#tab-1) at the Mathematical Institute of Leiden University, in the research group [Noncommutative Geometry](https://ncg-leiden.github.io/), under the supervision of [Dr. Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/). 
+I obtained my [Ph.D.]([https://www.universiteitleiden.nl/en/staffmembers/yufan-ge#tab-1](https://scholarlypublications.universiteitleiden.nl/handle/1887/4279616)) degree on 2025.10.22. From 2021.10 to 2025.10, I was a Ph.D. candidate at the Mathematical Institute of Leiden University, in the research group [Noncommutative Geometry](https://ncg-leiden.github.io/), under the supervision of [Dr. Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/). 
 
-My research interests are mainly about the operator algebras and related topics. Currently, I'm focusing on the C*-algebras from subproduct systems and their K-theory. Recently, I have a keen interest in function theory related to the Arveson–Douglas conjecture.
+Now, I'm employed as an algorithm engineer in Shenzhen, and I enjoy applying mathematical tools in industry.
+
+My research interests are mainly in operator algebras and related topics. Currently, I'm focusing on the C*-algebras from subproduct systems and their K-theory. Recently, I have a keen interest in function theory related to the Arveson–Douglas conjecture.
 
 ## Papers/Preprints
-- [Quadratic subproduct systems, free products, and their C*-algebras](https://arxiv.org/abs/2504.12843), Francesca Arici and Yufan Ge, submitted.
+- [Quadratic subproduct systems, free products, and their C*-algebras](https://arxiv.org/abs/2504.12843), Francesca Arici and Yufan Ge, accepted in the journal Integral Equations and Operator Theory.
 
 ## Talks
 - [SU(2)-symmetries of C*-algebras: from bricks to buildings](https://blogs.kent.ac.uk/iwota2024/files/2024/08/S9-1.pdf), [IWOTA 2024](https://blogs.kent.ac.uk/iwota2024/), 12-16 August, Kent University, UK.
@@ -30,9 +32,7 @@ To be determined.
 
 
 ## Teaching
-### Current
-In 2024 spring, I will be assisting Linear Analysis.
-### Past
+- 2024 fall: Teaching assistant of Linear Analysis.
 - 2024 spring: Teaching assistant of [Representation Theory](https://studiegids.universiteitleiden.nl/en/courses/121691/representation-theory-bm)
 - 2023 fall: Teaching assistant of [Linear Analysis](https://studiegids.universiteitleiden.nl/en/courses/121678/linear-analysis-bm)
 - 2023 spring: Teaching assistant of [Fourier Analysis](https://studiegids.universiteitleiden.nl/en/courses/115407/fourier-analysis-bm)
@@ -51,5 +51,6 @@ Some links of my colleagues and friends are as follows
 - [Onno van Gaans](https://www.math.leidenuniv.nl/~vangaans/)
 - [Yi Wang](https://faculty.cqu.edu.cn/YiWang12/en/index.htm)
 - [Xingni Jiang](https://www.universiteitleiden.nl/en/staffmembers/xingni-jiang#tab-1)
+
 
 
